@@ -1,37 +1,37 @@
-## 📅 2025-07-22 12:00:28
+## 📅 2025-07-22 12:02:29
 
 🧩 Riddle #1:
-Riddle: I'm the part of the bird that's not in the sky. I can swim in the ocean and yet remain dry. What am I?
-(Answer: A shadow)
+Riddle: A man is in a solid metal room. Solid metal floor, ceiling and walls. The ONLY thing in the room is a table. How does he get out?
+(Answer: He hits his arm against the wall until it gets saw, he then uses the saw to cut the table in half, he then puts the two pieces of table back together to make a hole, he climbs out the hole and escapes)
 
 🧩 Riddle #2:
-Riddle: A man is lying drowned in a dead forest, far from water. How did this happen?
-(Answer: A firefighting plane filled its tanks with water from a lake, sucking a scuba-diver in (Is this an urban legend, or did I see this on the news?). He drown while the plane was in flight and was dumped onto a burning forest with the water)
+Riddle: What demands an answer, but asks no question?
+(Answer: Ring Ring A Telephone)
 
 🧩 Riddle #3:
-Riddle: You live in a one story house made “entirely of redwood“. What color would the stairs be?
-(Answer: What stairs? You live in a one story house)
+Riddle: What is round on the ends and high in the middle?
+(Answer: oHIo)
 
 💬 Daily Quote #1:
-"If a thing is worth doing, it is worth doing badly." — Gilbert Chesterton
+"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it." — George Eliot
 
 💬 Daily Quote #2:
-"Know your gifts and share them." — Les Brown
+"The more you are motivated by Love, The more Fearless & Free your action will be." — Dalai Lama
 
 💬 Daily Quote #3:
-"Quiet people have the loudest minds." — Stephen Hawking
+"You don't earn loyalty in a day. You earn loyalty day-by-day." — Jeffrey Gitomer
 
 🧐 Fun Fact #1:
-189 is the atomic number of an element temporarily called Unoctennium.
+243 is the number of isotopes or variations of elements calculated by Dr. Plichta.
 
 🧐 Fun Fact #2:
-1400000 is the number of species that have been named by the World Resources Institute.
+451 is the temperature at which the paper in books ignites, giving the name to Ray Bradbury's novel Fahrenheit 451.
 
 🧐 Fun Fact #3:
-50 is the height in kilometres that a volcano can shoot ash into the sky.
+550 is the number of accidents per day that falling asleep while driving results in in the United States on average.
 
 💡 Programming Tip:
-When faced with a choice, do both.
+Pedantry is fine, unless you're on the receiving end. And not a pedant.
 
 
 
