@@ -1,53 +1,37 @@
-## 📅 2025-07-22 11:56:13
+## 📅 2025-07-22 12:00:28
 
 🧩 Riddle #1:
-Riddle: You see a pig in the middle of the road. What do you do? A)Yell piggy figgy higgy kiggy biggy diggy B)Get a burger C)Go to an Irish Dance Competition D)Buy a money clip E)Jump F)Call your mom and say WOOOO HOOOO! G)Yes
-(Answer: You Say here piggy piggy!!! i got ur slops wittle piggy!)
-
-## 📅 2025-07-22 11:56:13
+Riddle: I'm the part of the bird that's not in the sky. I can swim in the ocean and yet remain dry. What am I?
+(Answer: A shadow)
 
 🧩 Riddle #2:
-Riddle: What's the least number of chairs you would you need around a table to sit four fathers, two grandfathers, and four sons?
-(Answer: Four. The four fathers could be grandfathers and are definitely sons already)
-
-## 📅 2025-07-22 11:56:13
+Riddle: A man is lying drowned in a dead forest, far from water. How did this happen?
+(Answer: A firefighting plane filled its tanks with water from a lake, sucking a scuba-diver in (Is this an urban legend, or did I see this on the news?). He drown while the plane was in flight and was dumped onto a burning forest with the water)
 
 🧩 Riddle #3:
-Riddle: I am that which is hunted, and this panes me. Do you dig, Stone? What am I?
-(Answer: Quarry)
-
-## 📅 2025-07-22 11:56:13
+Riddle: You live in a one story house made “entirely of redwood“. What color would the stairs be?
+(Answer: What stairs? You live in a one story house)
 
 💬 Daily Quote #1:
-"Character is doing what you don't want to do but know you should do." — Joyce Meyer
-
-## 📅 2025-07-22 11:56:13
+"If a thing is worth doing, it is worth doing badly." — Gilbert Chesterton
 
 💬 Daily Quote #2:
-"We are shaped and fashioned by what we love." — Johann Wolfgang von Goethe
-
-## 📅 2025-07-22 11:56:13
+"Know your gifts and share them." — Les Brown
 
 💬 Daily Quote #3:
-"If you don't program yourself, life will program you." — Les Brown
-
-## 📅 2025-07-22 11:56:13
+"Quiet people have the loudest minds." — Stephen Hawking
 
 🧐 Fun Fact #1:
-57 is the number of people at 20th Century Fox Studios died amid rioting and suicide.
-
-## 📅 2025-07-22 11:56:13
+189 is the atomic number of an element temporarily called Unoctennium.
 
 🧐 Fun Fact #2:
-3.457e+181 is the number of ways to arrange the tiles in English Scrabble on a standard 15-by-15 Scrabble board.
-
-## 📅 2025-07-22 11:56:13
+1400000 is the number of species that have been named by the World Resources Institute.
 
 🧐 Fun Fact #3:
-144 is the Intel 8086 instruction for no operation (NOP).
-
-## 📅 2025-07-22 11:56:13
+50 is the height in kilometres that a volcano can shoot ash into the sky.
 
 💡 Programming Tip:
-Don't be afraid of silly ideas.
+When faced with a choice, do both.
+
+
 
