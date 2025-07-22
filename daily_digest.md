@@ -330,3 +330,9 @@ Riddle: A father's child, a mother's child, yet no one's son. Who am I.
 Riddle: What sport has four letters, is played all around the world, and begins with a T?
 (Answer: Golf)
 
+## 📅 2025-07-22 11:55:13
+
+🧩 Riddle #3:
+Riddle: You live in a one story house made “entirely of redwood“. What color would the stairs be?
+(Answer: What stairs? You live in a one story house)
+
