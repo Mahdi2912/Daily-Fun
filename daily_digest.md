@@ -10,3 +10,9 @@ Riddle: You see a pig in the middle of the road. What do you do? A)Yell piggy fi
 Riddle: What's the least number of chairs you would you need around a table to sit four fathers, two grandfathers, and four sons?
 (Answer: Four. The four fathers could be grandfathers and are definitely sons already)
 
+## 📅 2025-07-22 11:56:13
+
+🧩 Riddle #3:
+Riddle: I am that which is hunted, and this panes me. Do you dig, Stone? What am I?
+(Answer: Quarry)
+
