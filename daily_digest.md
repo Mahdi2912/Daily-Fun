@@ -1,7 +1,7 @@
 ## 📅 2025-07-22 12:03:08
 
 🧩 Riddle #1:
-Riddle: What question can you never answer?
+Riddle: What question can you never answer ?
 (Answer: “What's it like to be dead?“)
 
 🧩 Riddle #2:
