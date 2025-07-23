@@ -21,7 +21,7 @@ jobs:
       run: pip install requests
 
     - name: Run daily update script
-      run: python your_script.py
+      run: python daily.py
 
     - name: Push changes
       run: |
