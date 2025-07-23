@@ -139,3 +139,6 @@ Riddle: Detective Marty had been trailing three men suspected of committing seve
 🧐 Fun Fact #3:
 182 is the atomic number of an element temporarily called Unoctbium.
 
+💡 Programming Tip:
+Write comments to explain why, not what.
+
