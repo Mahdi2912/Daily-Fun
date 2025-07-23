@@ -95,3 +95,12 @@ Riddle: I am a fathers child and a mothers child, yet I am not a son. Who am I?
 💬 Daily Quote #3:
 "One loses many laughs by not laughing at oneself." — Mary Engelbreit
 
+🧐 Fun Fact #1:
+240 is distinct solutions of the Soma cube puzzle.
+
+🧐 Fun Fact #2:
+2147483647 is the largest number which can fit into a signed (two's complement) 32-bit integer on a computer.
+
+🧐 Fun Fact #3:
+10000000000 is the number of bacteria in the human oral cavity.
+
