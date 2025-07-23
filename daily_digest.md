@@ -113,3 +113,7 @@ Keep functions small and focused on a single task.
 Riddle: Below are six clues to six words. When arranged in the correct order, each word is an anagram of the previous word with a letter removed.  capital of France snake headache tablet single article twisted ankle coarse file equally
 (Answer: Aspirin, sprain, Paris, rasp, asp, as, a)
 
+🧩 Riddle #2:
+Riddle: Why are 1990 dollar bills worth more than 1989 dollar bills?
+(Answer: There is a one dollar differnce The same reason seven dollars is more than six. Because there is one more)
+
