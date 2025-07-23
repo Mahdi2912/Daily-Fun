@@ -86,3 +86,12 @@ Riddle: Where does the 13th man come from ?
 Riddle: I am a fathers child and a mothers child, yet I am not a son. Who am I?
 (Answer: I am their daughter)
 
+💬 Daily Quote #1:
+"To live is the rarest thing in the world. Most people exist, that is all. " — Oscar Wilde
+
+💬 Daily Quote #2:
+"The ego wants comfort and certainty. The soul wants to live fully." — Maxime Lagace
+
+💬 Daily Quote #3:
+"One loses many laughs by not laughing at oneself." — Mary Engelbreit
+
