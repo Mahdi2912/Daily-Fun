@@ -104,3 +104,6 @@ Riddle: I am a fathers child and a mothers child, yet I am not a son. Who am I?
 🧐 Fun Fact #3:
 10000000000 is the number of bacteria in the human oral cavity.
 
+💡 Programming Tip:
+Keep functions small and focused on a single task.
+
