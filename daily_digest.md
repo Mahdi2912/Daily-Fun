@@ -74,3 +74,15 @@ Learn from your mistakes.
 
 ## 📅 2025-07-23 19:11:08
 
+🧩 Riddle #1:
+Riddle: Rungs of a Ladder The rungs of a 10 foot ladder attached to a ship are 1 foot apart. If the water is rising at the rate of one foot an hour, how long will it take until the water covers over the ladder?...
+(Answer: It will never cover the ladder because as the water rises, so will the floating ship)
+
+🧩 Riddle #2:
+Riddle: Where does the 13th man come from ?
+(Answer: If you think you know the answer please tell us in the comment section below.  Good Luck)
+
+🧩 Riddle #3:
+Riddle: I am a fathers child and a mothers child, yet I am not a son. Who am I?
+(Answer: I am their daughter)
+
