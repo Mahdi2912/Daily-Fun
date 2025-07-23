@@ -133,3 +133,6 @@ Riddle: Detective Marty had been trailing three men suspected of committing seve
 🧐 Fun Fact #1:
 386 is the number of Pokémon in the 3rd Generation National Pokédex.
 
+🧐 Fun Fact #2:
+139 is the number of unlabeled topologies with 5 elements.
+
