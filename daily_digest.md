@@ -127,3 +127,6 @@ Riddle: Detective Marty had been trailing three men suspected of committing seve
 💬 Daily Quote #2:
 "There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen." — Wayne Dyer
 
+💬 Daily Quote #3:
+"Don't try to steer the river." — Deepak Chopra
+
