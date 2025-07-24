@@ -162,3 +162,6 @@ Riddle: If life gets tough, what do you have that you can always count on?
 💬 Daily Quote #2:
 "Be brave enough to suck at something new." — Unknown
 
+💬 Daily Quote #3:
+"Life is about choice. You can choose to be a victim or anything else you like to be." — Celestine Chua
+
