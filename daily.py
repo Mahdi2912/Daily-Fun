@@ -58,47 +58,54 @@ def get_programming_tip():
 
 def append_to_file(filename, content):
     with open(filename, "a", encoding="utf-8") as f:
-        f.write(content + "\n\n")  # Add spacing between entries
+        f.write(content + "\n\n")
 
 def git_commit(commit_message):
     try:
         subprocess.run(["git", "add", "daily_digest.md"], check=True)
         subprocess.run(["git", "commit", "-m", commit_message], check=True)
     except subprocess.CalledProcessError as e:
-        print(f"Git command failed: {e}")
+        print(f"Git commit failed: {e}")
 
 def main():
     filename = "daily_digest.md"
     today = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    content = f"## 📅 {today}\n\n"
+    # Add date header
+    append_to_file(filename, f"## 📅 {today}")
+    git_commit(f"Start daily digest entry for {today}")
 
-    # Add riddles without date header
+    # Riddles
     for i in range(3):
         riddle = get_riddle()
-        content += f"🧩 Riddle #{i+1}:\n{riddle}\n\n"
+        content = f"🧩 Riddle #{i+1}:\n{riddle}"
+        append_to_file(filename, content)
+        git_commit(f"Added riddle #{i+1}")
 
-    # Add quotes
+    # Quotes
     for i in range(3):
         quote = get_daily_quote()
-        content += f"💬 Daily Quote #{i+1}:\n{quote}\n\n"
+        content = f"💬 Daily Quote #{i+1}:\n{quote}"
+        append_to_file(filename, content)
+        git_commit(f"Added quote #{i+1}")
 
-    # Add fun facts
+    # Fun Facts
     for i in range(3):
         fact = get_fun_fact()
-        content += f"🧐 Fun Fact #{i+1}:\n{fact}\n\n"
+        content = f"🧐 Fun Fact #{i+1}:\n{fact}"
+        append_to_file(filename, content)
+        git_commit(f"Added fun fact #{i+1}")
 
-    # Add programming tip
+    # Programming Tip
     tip = get_programming_tip()
-    content += f"💡 Programming Tip:\n{tip}\n\n"
-
+    content = f"💡 Programming Tip:\n{tip}"
     append_to_file(filename, content)
-    git_commit(f"Daily digest update {today}")
+    git_commit("Added programming tip")
 
-    # Push
+    # Final push
     try:
         subprocess.run(["git", "push"], check=True)
-        print("Committed and pushed successfully!")
+        print("All changes committed and pushed successfully!")
     except subprocess.CalledProcessError as e:
         print(f"Git push failed: {e}")
 
