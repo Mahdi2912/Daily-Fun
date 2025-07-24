@@ -144,3 +144,7 @@ Write comments to explain why, not what.
 
 ## 📅 2025-07-24 14:09:34
 
+🧩 Riddle #1:
+Riddle: a man and his son were driving to meet there mom when they got in a car wreck. on the way to the ER the man past away. the surgeon said i cant operate on this boy he is my son. how ca n this be?
+(Answer: the surgeon is the mom)
+
