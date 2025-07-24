@@ -159,3 +159,6 @@ Riddle: If life gets tough, what do you have that you can always count on?
 💬 Daily Quote #1:
 "We think too much and feel too little." — Charlie Chaplin
 
+💬 Daily Quote #2:
+"Be brave enough to suck at something new." — Unknown
+
