@@ -148,3 +148,7 @@ Write comments to explain why, not what.
 Riddle: a man and his son were driving to meet there mom when they got in a car wreck. on the way to the ER the man past away. the surgeon said i cant operate on this boy he is my son. how ca n this be?
 (Answer: the surgeon is the mom)
 
+🧩 Riddle #2:
+Riddle: A wife and her husband were driving in their car on the highway. All of a sudden, they ran out of gas. So the husband said to the wife, “Now, you stay here. I will go down the highway to the nearest gas station, and I will be about 1 hour. Just listen to the radio and read some books, and remember to lock all the windows and doors. I will leave the keys with you.”So, off the husband went, and the wife first locked ALL the windows and doors. Next, she turned on the radio, and this is what she heard on the news report: “THERE IS A MURDERER ON THE LOOSE. HE WAS LAST SEEN ON THE HIGHWAY, WEARING ALL BLACK, ABOUT 5 FOOT 11 INCHES. PLEASE, BE AWARE AND CONTACT THE POLICE IMMEDIATELY.”The wife got very scared. She turned off the radio and double checked the locked doors. Then she saw the murderer, only a couple feet away from the car. An hour later, the husband returned to his car. Inside the car, his wife was DEAD, she had been murdered. All the windows were still locked, and the doors. No windows were broken, and the car was in PERFECT condition. No scratches or anything, it was the same way as when he left it. How did the murderer kill the wife?
+(Answer: The car was a convertable, and the roof was open)
+
