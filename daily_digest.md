@@ -168,3 +168,6 @@ Riddle: If life gets tough, what do you have that you can always count on?
 🧐 Fun Fact #1:
 25 is the (critical) number of Florida electoral votes for the 2000 U.S. presidential election.
 
+🧐 Fun Fact #2:
+383 is the cubic displacement in inches of a 350cid Small Block Chevrolet with a 400cid SBC crankshaft.
+
