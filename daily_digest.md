@@ -191,3 +191,6 @@ Riddle: While exploring the wilds of Canada, Wild Man Dave was captured by hosti
 Riddle: The king dies and two men, the true heir and an impostor, both claim to be his long-lost son. Both fit the description of the rightful heir: about the right age, height, coloring and general appearance. Finally, one of the elders proposes a test to identify the true heir. One man agrees to the test while the other flatly re-fuses. The one who agreed is immediately sent on his way, and the one who re-fused is correctly identified as the rightful heir. Can you figure out why?
 (Answer: The test was a blood test. The elder remembered that the true prince was a hemophiliac)
 
+💬 Daily Quote #1:
+"Instead of being intimidated by the limitations, be inspired to find new ways around them." — Ralph Marston
+
