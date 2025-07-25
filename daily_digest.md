@@ -209,3 +209,6 @@ Riddle: The king dies and two men, the true heir and an impostor, both claim to 
 🧐 Fun Fact #3:
 162 is 162 is the total number of baseball games each team plays during a regular season in Major League Baseball.
 
+💡 Programming Tip:
+Try using an old idea.
+
