@@ -203,3 +203,6 @@ Riddle: The king dies and two men, the true heir and an impostor, both claim to 
 🧐 Fun Fact #1:
 20000000000 is the approximate number of coconuts produced worldwide each year.
 
+🧐 Fun Fact #2:
+107 is a common police code denoting a suspicious person.
+
