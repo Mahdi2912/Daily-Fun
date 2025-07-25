@@ -179,3 +179,7 @@ Sometimes, you just need to say sorry. Even if it's not your fault.
 
 ## 📅 2025-07-25 14:29:33
 
+🧩 Riddle #1:
+Riddle: Different lights do make me strange, thus into different sizes I will change. What am I?
+(Answer: I am the pupil of an eye)
+
