@@ -183,3 +183,7 @@ Sometimes, you just need to say sorry. Even if it's not your fault.
 Riddle: Different lights do make me strange, thus into different sizes I will change. What am I?
 (Answer: I am the pupil of an eye)
 
+🧩 Riddle #2:
+Riddle: While exploring the wilds of Canada, Wild Man Dave was captured by hostile wood fairies. Brad, the powerful chief of the fairies told him he could make one final statement which would determine how he would die. If the statement he made was false, he would be boiled in water. If the statement were true, he would be fried in oil. Wild Man Dave found neither of this options too his liking, so he made a statement that got him out of this seemingly impossible situation. What is the one statement he could have made?
+(Answer: Wild Man Dave said: “You will boil me in water.”The fairies were faced with a dilemma. If they boil him in water, that would make his statement true, which means he should have been fried in oil. They can only fry him in oil if he makes a true statement, but if they do, it would make his final statement false. The fairies had no way our of their situation so they were forced to set Wild Man Dave free)
+
