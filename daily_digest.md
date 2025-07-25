@@ -206,3 +206,6 @@ Riddle: The king dies and two men, the true heir and an impostor, both claim to 
 🧐 Fun Fact #2:
 107 is a common police code denoting a suspicious person.
 
+🧐 Fun Fact #3:
+162 is 162 is the total number of baseball games each team plays during a regular season in Major League Baseball.
+
