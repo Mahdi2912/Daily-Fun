@@ -222,3 +222,7 @@ Riddle: I can flutter and take your breath away. I can take a beating, but do no
 Riddle: There's a body lying dead on a bed, and on the floor beside it is a pair of scissors. The scissors were instrumental in his death, yet there's no trace of blood. The body reveals no signs of any cuts or bruises. How could the person have been murdered with the pair of scissors?
 (Answer: Waterbed {}The person slept on a waterbed. His killer used the scissors to cut the bed open and drown him)
 
+🧩 Riddle #3:
+Riddle: a cat goes to the top of a 50 story building and jumpsout but doesnt die or get hurt and doesnt land on any thing,what happened
+(Answer: the cat jumped off the first floor)
+
