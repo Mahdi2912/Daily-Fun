@@ -235,3 +235,6 @@ Riddle: a cat goes to the top of a 50 story building and jumpsout but doesnt die
 💬 Daily Quote #3:
 "Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them." — W. Clement Stone
 
+🧐 Fun Fact #1:
+276 is the highest number of rounds in boxing history, in a bare-knuckle fight in 1825 that saw Jack Jones beat Patsy Tunney after 4hr 30min.
+
