@@ -241,3 +241,6 @@ Riddle: a cat goes to the top of a 50 story building and jumpsout but doesnt die
 🧐 Fun Fact #2:
 132 is the number of runs Pakistan was shot out o hand over the World cup trophy to a strong australian team in the Cricket World Cup 1999.
 
+🧐 Fun Fact #3:
+93 is the atomic number of neptunium.
+
