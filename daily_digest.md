@@ -238,3 +238,6 @@ Riddle: a cat goes to the top of a 50 story building and jumpsout but doesnt die
 🧐 Fun Fact #1:
 276 is the highest number of rounds in boxing history, in a bare-knuckle fight in 1825 that saw Jack Jones beat Patsy Tunney after 4hr 30min.
 
+🧐 Fun Fact #2:
+132 is the number of runs Pakistan was shot out o hand over the World cup trophy to a strong australian team in the Cricket World Cup 1999.
+
