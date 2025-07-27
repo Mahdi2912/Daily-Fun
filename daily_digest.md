@@ -232,3 +232,6 @@ Riddle: a cat goes to the top of a 50 story building and jumpsout but doesnt die
 💬 Daily Quote #2:
 "You can have it all. You just can't have it all at once. " — Oprah Winfrey
 
+💬 Daily Quote #3:
+"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them." — W. Clement Stone
+
