@@ -229,3 +229,6 @@ Riddle: a cat goes to the top of a 50 story building and jumpsout but doesnt die
 💬 Daily Quote #1:
 "How you think is as important as as what you think." — Unknown
 
+💬 Daily Quote #2:
+"You can have it all. You just can't have it all at once. " — Oprah Winfrey
+
