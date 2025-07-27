@@ -218,3 +218,7 @@ Try using an old idea.
 Riddle: I can flutter and take your breath away. I can take a beating, but do not bruise. If I stopped you would be sure to lose. Everyday I am with you. What am I?
 (Answer: Your heart)
 
+🧩 Riddle #2:
+Riddle: There's a body lying dead on a bed, and on the floor beside it is a pair of scissors. The scissors were instrumental in his death, yet there's no trace of blood. The body reveals no signs of any cuts or bruises. How could the person have been murdered with the pair of scissors?
+(Answer: Waterbed {}The person slept on a waterbed. His killer used the scissors to cut the bed open and drown him)
+
