@@ -226,3 +226,6 @@ Riddle: There's a body lying dead on a bed, and on the floor beside it is a pair
 Riddle: a cat goes to the top of a 50 story building and jumpsout but doesnt die or get hurt and doesnt land on any thing,what happened
 (Answer: the cat jumped off the first floor)
 
+💬 Daily Quote #1:
+"How you think is as important as as what you think." — Unknown
+
