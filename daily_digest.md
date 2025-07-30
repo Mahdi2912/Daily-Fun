@@ -253,3 +253,7 @@ Don't let the bastards grind you down.
 Riddle: Detective Marty had been trailing three men suspected of committing several fur robberies. He received a message in a sealed envelope delivered by Roscoe, an underworld contact and decided to call Detective Sam, his partner. “I think I found out where the merchandise is stored,”said Detective Marty. Obviously Marty didn't want Roscoe to know what was in the envelope, so he read it to Sam in code. This is what Marty had said:  “Flame mate weighty soak shave comedy debut stake scared.” What did the message say?
 (Answer: Am at Eight Oak Ave, come but take care. Read through it again to see!)
 
+🧩 Riddle #2:
+Riddle: A black dog is sleeping in the middle of a black road that has no streetlights and there is no moon. A car coming down the road with its lights off steers around the dog. How did the driver know the dog was there?
+(Answer: It was daytime)
+
