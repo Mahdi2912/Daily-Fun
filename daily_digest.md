@@ -279,3 +279,6 @@ Riddle: a cat goes to the top of a 50 story building and jumpsout but doesnt die
 🧐 Fun Fact #3:
 98 is the highest jersey number allowed in the National Hockey League (as 99 was retired by the entire league to honor Wayne Gretzky).
 
+💡 Programming Tip:
+Make choices and dont look back.
+
