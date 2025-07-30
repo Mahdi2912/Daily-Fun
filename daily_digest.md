@@ -267,3 +267,6 @@ Riddle: a cat goes to the top of a 50 story building and jumpsout but doesnt die
 💬 Daily Quote #2:
 "I'd rather welcome change than cling to the past." — Robert Kiyosaki
 
+💬 Daily Quote #3:
+"Do what you feel in your heart to be right - for you'll be criticized anyway." — Eleanor Roosevelt
+
