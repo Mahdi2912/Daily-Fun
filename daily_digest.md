@@ -249,3 +249,7 @@ Don't let the bastards grind you down.
 
 ## 📅 2025-07-30 15:58:23
 
+🧩 Riddle #1:
+Riddle: Detective Marty had been trailing three men suspected of committing several fur robberies. He received a message in a sealed envelope delivered by Roscoe, an underworld contact and decided to call Detective Sam, his partner. “I think I found out where the merchandise is stored,”said Detective Marty. Obviously Marty didn't want Roscoe to know what was in the envelope, so he read it to Sam in code. This is what Marty had said:  “Flame mate weighty soak shave comedy debut stake scared.” What did the message say?
+(Answer: Am at Eight Oak Ave, come but take care. Read through it again to see!)
+
