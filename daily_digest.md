@@ -327,3 +327,7 @@ Riddle: I have many feathers to help me fly. I have a body and head, but I'm not
 Riddle: I turn polar bears white and I will make you cry. I make guys have to pee and girls comb their hair. I make celebrities look stupid and normal people look like celebrities. I turn pancakes brown and make your champane bubble. If you sqeeze me, I'll pop. If you look at me, you'll pop. Can you guess the riddle?   97% of Harvard graduates can not figure this riddle out, but 84% of kindergarten students were able to figure this out in 6 minutes or less.
 (Answer: The answer is no. The actual question is can you guess the riddle!)
 
+🧩 Riddle #3:
+Riddle: A car's odometer shows 72927 miles, a palindromic number. What are the minimum miles you would need to travel to form another?
+(Answer: 110 miles. (73037))
+
