@@ -323,3 +323,7 @@ Most things are not as bad as you think they are.
 Riddle: I have many feathers to help me fly. I have a body and head, but I'm not alive. It is your strength which determines how far I go. You can hold me in your hand, but I'm never thrown. What am I?
 (Answer: Indians  An Arrow)
 
+🧩 Riddle #2:
+Riddle: I turn polar bears white and I will make you cry. I make guys have to pee and girls comb their hair. I make celebrities look stupid and normal people look like celebrities. I turn pancakes brown and make your champane bubble. If you sqeeze me, I'll pop. If you look at me, you'll pop. Can you guess the riddle?   97% of Harvard graduates can not figure this riddle out, but 84% of kindergarten students were able to figure this out in 6 minutes or less.
+(Answer: The answer is no. The actual question is can you guess the riddle!)
+
