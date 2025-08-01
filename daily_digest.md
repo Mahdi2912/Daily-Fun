@@ -346,3 +346,6 @@ Riddle: A car's odometer shows 72927 miles, a palindromic number. What are the m
 🧐 Fun Fact #2:
 37 is the normal human body temperature in degrees Celsius.
 
+🧐 Fun Fact #3:
+11 is the possible age of the youngest elected pope, Benedict IX.
+
