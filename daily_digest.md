@@ -319,3 +319,7 @@ Most things are not as bad as you think they are.
 
 ## 📅 2025-08-01 12:51:59
 
+🧩 Riddle #1:
+Riddle: I have many feathers to help me fly. I have a body and head, but I'm not alive. It is your strength which determines how far I go. You can hold me in your hand, but I'm never thrown. What am I?
+(Answer: Indians  An Arrow)
+
