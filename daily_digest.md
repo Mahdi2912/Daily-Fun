@@ -308,3 +308,6 @@ Riddle: Dark with white markings, And smooth like a rock. Where learning occurs,
 🧐 Fun Fact #1:
 150 is the number of degrees in the quincunx astrological aspect explored by Johannes Kepler.
 
+🧐 Fun Fact #2:
+209 is the basketball record for most three pointers in a row.
+
