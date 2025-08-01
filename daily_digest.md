@@ -311,3 +311,6 @@ Riddle: Dark with white markings, And smooth like a rock. Where learning occurs,
 🧐 Fun Fact #2:
 209 is the basketball record for most three pointers in a row.
 
+🧐 Fun Fact #3:
+85 is the atomic number of astatine.
+
