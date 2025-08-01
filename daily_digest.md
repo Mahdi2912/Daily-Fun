@@ -288,3 +288,7 @@ Make choices and dont look back.
 Riddle: You are trapped in a dimly lit dungeon deep below the city of Berlin.You know that one door leads to freedom,and a holiday in the canary islands,while the other leads to death. There are two armed giants,each gaurding one of the doors.You know that the giants names are Ivan and Mike.You do not know which is which. You also know that one of them always tells the truth, while the other always tells lies.Yet again,you do not know which is which. You are allowed to ask one of the giants one question. What question should you ask???
 (Answer: If i ask the other man which door leads to freedom,what will he say??? P.S.You should take the door opposite to what he says!!!)
 
+🧩 Riddle #2:
+Riddle: The beginning of eternity, the end of time and space; the beginning of every end, and the end of every place. What am I?
+(Answer: The letter “E“.  The beginning of Eternity, the end of timE and spacE; the beginning of every End, and the end of every placE)
+
