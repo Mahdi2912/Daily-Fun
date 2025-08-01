@@ -296,3 +296,6 @@ Riddle: The beginning of eternity, the end of time and space; the beginning of e
 Riddle: Dark with white markings, And smooth like a rock. Where learning occurs, I help convey thought. What am I?
 (Answer: It's in classrooms Blackboard or chalkboard)
 
+💬 Daily Quote #1:
+"They say love is the best investment; the more you give, the more you get in return." — Audrey Hepburn
+
