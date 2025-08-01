@@ -334,3 +334,6 @@ Riddle: A car's odometer shows 72927 miles, a palindromic number. What are the m
 💬 Daily Quote #1:
 "If they wrote it to make money, don't read it." — Naval Ravikant
 
+💬 Daily Quote #2:
+"If there is a book that you want to read, but it hasn't been written yet, then you must write it." — Toni Morrison
+
