@@ -292,3 +292,7 @@ Riddle: You are trapped in a dimly lit dungeon deep below the city of Berlin.You
 Riddle: The beginning of eternity, the end of time and space; the beginning of every end, and the end of every place. What am I?
 (Answer: The letter “E“.  The beginning of Eternity, the end of timE and spacE; the beginning of every End, and the end of every placE)
 
+🧩 Riddle #3:
+Riddle: Dark with white markings, And smooth like a rock. Where learning occurs, I help convey thought. What am I?
+(Answer: It's in classrooms Blackboard or chalkboard)
+
