@@ -284,3 +284,7 @@ Make choices and dont look back.
 
 ## 📅 2025-08-01 12:51:36
 
+🧩 Riddle #1:
+Riddle: You are trapped in a dimly lit dungeon deep below the city of Berlin.You know that one door leads to freedom,and a holiday in the canary islands,while the other leads to death. There are two armed giants,each gaurding one of the doors.You know that the giants names are Ivan and Mike.You do not know which is which. You also know that one of them always tells the truth, while the other always tells lies.Yet again,you do not know which is which. You are allowed to ask one of the giants one question. What question should you ask???
+(Answer: If i ask the other man which door leads to freedom,what will he say??? P.S.You should take the door opposite to what he says!!!)
+
